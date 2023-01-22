@@ -1,0 +1,16 @@
+KKKKKKKKK    KKKKKKKLLLLLLLLLLL             EEEEEEEEEEEEEEEEEEEEEEBBBBBBBBBBBBBBBBB   EEEEEEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRR
+K:::::::K    K:::::KL:::::::::L             E::::::::::::::::::::EB::::::::::::::::B  E::::::::::::::::::::ER::::::::::::::::R
+K:::::::K    K:::::KL:::::::::L             E::::::::::::::::::::EB::::::BBBBBB:::::B E::::::::::::::::::::ER::::::RRRRRR:::::R
+K:::::::K   K::::::KLL:::::::LL             EE::::::EEEEEEEEE::::EBB:::::B     B:::::BEE::::::EEEEEEEEE::::ERR:::::R     R:::::R
+KK::::::K  K:::::KKK  L:::::L                 E:::::E       EEEEEE  B::::B     B:::::B  E:::::E       EEEEEE  R::::R     R:::::R
+  K:::::K K:::::K     L:::::L                 E:::::E               B::::B     B:::::B  E:::::E               R::::R     R:::::R
+  K::::::K:::::K      L:::::L                 E::::::EEEEEEEEEE     B::::BBBBBB:::::B   E::::::EEEEEEEEEE     R::::RRRRRR:::::R
+  K:::::::::::K       L:::::L                 E:::::::::::::::E     B:::::::::::::BB    E:::::::::::::::E     R:::::::::::::RR
+  K:::::::::::K       L:::::L                 E:::::::::::::::E     B::::BBBBBB:::::B   E:::::::::::::::E     R::::RRRRRR:::::R
+  K::::::K:::::K      L:::::L                 E::::::EEEEEEEEEE     B::::B     B:::::B  E::::::EEEEEEEEEE     R::::R     R:::::R
+  K:::::K K:::::K     L:::::L                 E:::::E               B::::B     B:::::B  E:::::E               R::::R     R:::::R
+KK::::::K  K:::::KKK  L:::::L         LLLLLL  E:::::E       EEEEEE  B::::B     B:::::B  E:::::E       EEEEEE  R::::R     R:::::R
+K:::::::K   K::::::KLL:::::::LLLLLLLLL:::::LEE::::::EEEEEEEE:::::EBB:::::BBBBBB::::::BEE::::::EEEEEEEE:::::ERR:::::R     R:::::R
+K:::::::K    K:::::KL::::::::::::::::::::::LE::::::::::::::::::::EB:::::::::::::::::B E::::::::::::::::::::ER::::::R     R:::::R
+K:::::::K    K:::::KL::::::::::::::::::::::LE::::::::::::::::::::EB::::::::::::::::B  E::::::::::::::::::::ER::::::R     R:::::R
+KKKKKKKKK    KKKKKKKLLLLLLLLLLLLLLLLLLLLLLLLEEEEEEEEEEEEEEEEEEEEEEBBBBBBBBBBBBBBBBB   EEEEEEEEEEEEEEEEEEEEEERRRRRRRR     RRRRRRR
